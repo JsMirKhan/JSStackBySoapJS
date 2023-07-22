@@ -1,6 +1,6 @@
 **Purpose** these are source code files for a youtube video that i made - https://youtu.be/Ux9e9OaWv-4
 
-**JavaScript Stack Data Structure**
+## JavaScript Stack Data Structure
 
 This repository contains a simple implementation of a stack data structure in JavaScript. A stack is a last-in, first-out (LIFO) data structure, where elements are added and removed from the same end, known as the "top" of the stack. This project demonstrates the creation of a stack using JavaScript classes and methods.
 
