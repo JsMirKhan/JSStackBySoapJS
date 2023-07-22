@@ -1,4 +1,4 @@
-**Purpose** these are source code files for a youtube video that i made
+**Purpose** these are source code files for a youtube video that i made - https://youtu.be/Ux9e9OaWv-4
 
 **JavaScript Stack Data Structure**
 
