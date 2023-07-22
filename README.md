@@ -10,6 +10,6 @@ This repository contains a simple implementation of a stack data structure in Ja
 Contribution: Contributions to this project are welcome. If you have any ideas for improvement or bug fixes, feel free to submit a pull request.
 
 **Getting Started:**
-Clone the repository to your local machine using git clone https://github.com/JsMirKhan/JSStackBySoapJS
+Clone the repository to your local machine using `git clone https://github.com/JsMirKhan/JSStackBySoapJS`
 Open index.html in your preferred web browser to see the stack in action.
 Feel free to explore the stack.js file to understand the implementation details.
